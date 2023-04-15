@@ -1,0 +1,42 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    color: white;
+    margin: 0px;
+    box-shadow: 12px 12px 5px grey;
+}
+
+.heading_div
+{
+    background-color: white;
+    float:none;
+    border-radius: 25px;
+    padding: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+.result_para_tag
+{
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    bottom: 0;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
+
+canvas
+{
+    margin-top: 150px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    border: 5px solid white;
+}
